@@ -140,7 +140,7 @@
         </dependency>
 
         <!--以下自己加的-->
-        <!--pring-boot-starter-test中已经集成了junit4.12-->
+        <!--spring-boot-starter-test中已经集成了junit4.12-->
         <!--<dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
